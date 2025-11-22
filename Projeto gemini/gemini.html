@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="gemini.css">
+    <title>Base de Conhecimento</title>
+</head>
+<body>
+    <header>
+        <h1>Base de Conhecimento</h1>
+        <div class="search-container">
+            <form id="search-form" class="search-box" onsubmit="event.preventDefault(); iniciarBusca();">
+                <div class="search-field">
+                    <button type="button" class="icon-btn" aria-hidden="true" tabindex="-1">
+                        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                            <circle cx="11" cy="11" r="7"></circle>
+                            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+                        </svg>
+                    </button>
+
+                    <input type="search" id="input-busca" class="search-input" placeholder="Digite uma linguagem de Programação" aria-label="Pesquisar linguagem">
+
+                    <select id="search-scope" class="search-scope" aria-label="Filtrar por categoria">
+                        <option value="all">Todas</option>
+                        <option value="web">Web</option>
+                        <option value="data">Ciência de Dados</option>
+                        <option value="mobile">Mobile</option>
+                    </select>
+
+                    <button type="submit" id="botao-busca" class="search-button">Buscar</button>
+                </div>
+            </form>
+        </div>
+    </header>
+
+    <main>
+        <section class="card-container">
+            <!-- <article class="card">
+                <h2>JavaScript</h2>
+                <p>JavaScript é uma linguagem de programação leve, interpretada e baseada em objetos. É amplamente utilizada para desenvolvimento web, permitindo a criação de páginas interativas.</p>
+                <a href="httpb/JavaScript" target="_blank">Saiba mais</a>
+            </article>
+        </section>
+
+        <article class="card">
+                <h2>Python</h2>
+                <p>Python é uma linguagem de programação de alto nível, interpretada e de propósito geral. É conhecida por sua sintaxe clara e legibilidade, sendo amplamente utilizada em desenvolvimento web, ciência de dados, automação e muito mais.</p>
+                <a href="https://docs.python.org/pt-br/3.14/" target="_blank">Saiba mais</a>
+            </article>> -->
+        </section>
+    </main>
+
+    <main>
+        <section id="results"></section>
+    </main>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 NicolasSoft. Todos os direitos reservados.</p>
+            <ul>
+                <li><a href="https://github.com/NicolasSoft">Github</a></li>
+                <li><a href="https://nicolasdevs.netlify.app/">Portifólio</a></li>
+            </ul>
+        </div>
+    </footer>
+
+    <script src="gemini.js"></script>
+</body>
+</html>

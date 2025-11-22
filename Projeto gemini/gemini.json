@@ -1,0 +1,157 @@
+[
+{
+    "nome": "JavaScript",
+    "ano": "1995",
+    "descricao": "Linguagem de programação amplamente utilizada para desenvolvimento web.",
+    "link": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript",
+    "categoria": "programacao"
+},
+{
+    "nome": "Python",
+    "ano": "1991",
+    "descricao": "Linguagem de programação versátil e fácil de aprender, usada em diversas áreas.",
+    "link": "https://docs.python.org/pt-br/3.14/",
+    "categoria": "programacao"
+},
+{
+    "nome": "Java",
+    "ano": "1995",
+    "descricao": "Linguagem de programação orientada a objetos, amplamente utilizada em aplicações corporativas.",
+    "link": "https://dev.java/learn/",
+    "categoria": "programacao"
+},
+{
+    "nome": "C#",
+    "ano": "2000",
+    "descricao": "Linguagem de programação desenvolvida pela Microsoft, usada para criar uma variedade de aplicações.",
+    "link": "https://learn.microsoft.com/pt-br/dotnet/csharp/",
+    "categoria": "programacao"
+},
+{
+    "nome": "Ruby",
+    "ano": "1995",
+    "descricao": "Linguagem de programação dinâmica e de código aberto, conhecida por sua simplicidade e produtividade.",
+    "link": "https://www.ruby-lang.org/pt/",
+    "categoria": "programacao"
+},
+{
+    "nome": "PHP",
+    "ano": "1995",
+    "descricao": "Linguagem de programação amplamente utilizada para desenvolvimento web.",
+    "link": "https://www.php.net/docs.php",
+    "categoria": "programacao"  
+},
+{
+    "nome": "Typescript",
+    "ano": "2012",
+    "descricao": "Linguagem de programação que é um superconjunto tipado de JavaScript, que adiciona tipagem estática opcional.",
+    "link": "https://www.typescriptlang.org/",
+    "categoria": "programacao"
+},
+{
+    "nome": "Go",
+    "ano": "2009",
+    "descricao": "Linguagem de programação desenvolvida pela Google, conhecida por sua eficiência e desempenho.",
+    "link": "https://go.dev/doc/",
+    "categoria": "programacao"
+},
+{
+    "nome": "Swift",
+    "ano": "2014",
+    "descricao": "Linguagem de programação desenvolvida pela Apple para o desenvolvimento de aplicativos iOS e macOS.",
+    "link": "https://swift.org/documentation/",
+    "categoria": "programacao"
+},
+{
+    "nome": "Kotlin",
+    "ano": "2011",
+    "descricao": "Linguagem de programação moderna que é totalmente interoperável com Java, usada principalmente para desenvolvimento Android.",
+    "link": "https://kotlinlang.org/docs/home.html",
+    "categoria": "programacao"
+},
+{
+    "nome": "Rust",
+    "ano": "2010",
+    "descricao": "Linguagem de programação focada em segurança e desempenho, ideal para sistemas de baixo nível.",
+    "link": "https://www.rust-lang.org/pt-BR/learn",
+    "categoria": "programacao"
+},
+{
+    "nome": "Dart",
+    "ano": "2011",
+    "descricao": "Linguagem de programação desenvolvida pela Google, usada principalmente para construir aplicativos móveis com Flutter.",
+    "link": "https://dart.dev/guides",
+    "categoria": "programacao"
+},
+{
+    "nome": "React",
+    "ano": "2013",
+    "descricao": "Biblioteca JavaScript para construir interfaces de usuário, mantida pelo Facebook.",
+    "link": "https://react.dev/learn",
+    "categoria": "programacao"
+}
+,
+{
+    "nome": "C",
+    "ano": "1972",
+    "descricao": "Linguagem de programação de baixo nível, amplamente usada em sistemas operacionais e software de alto desempenho.",
+    "link": "https://en.wikipedia.org/wiki/C_(programming_language)",
+    "categoria": "programacao"
+},
+{
+    "nome": "C++",
+    "ano": "1985",
+    "descricao": "Extensão de C com suporte a programação orientada a objetos e genérica, muito usada em jogos e aplicações de alto desempenho.",
+    "link": "https://isocpp.org/",
+    "categoria": "programacao"
+},
+{
+    "nome": "SQL",
+    "ano": "1974",
+    "descricao": "Linguagem de consulta usada para gerenciar e manipular bancos de dados relacionais.",
+    "link": "https://www.w3schools.com/sql/",
+    "categoria": "programacao"
+},
+{
+    "nome": "R",
+    "ano": "1993",
+    "descricao": "Linguagem e ambiente para estatística, análise de dados e visualização.",
+    "link": "https://www.r-project.org/",
+    "categoria": "programacao"
+},
+{
+    "nome": "MATLAB",
+    "ano": "1984",
+    "descricao": "Ambiente de programação e linguagem para cálculo numérico, modelagem e visualização científica.",
+    "link": "https://www.mathworks.com/products/matlab.html",
+    "categoria": "programacao"
+},
+{
+    "nome": "Objective-C",
+    "ano": "1984",
+    "descricao": "Linguagem orientada a objetos usada historicamente para desenvolvimento de software Apple (iOS/macOS).",
+    "link": "https://developer.apple.com/documentation/objectivec",
+    "categoria": "programacao"
+},
+{
+    "nome": "Perl",
+    "ano": "1987",
+    "descricao": "Linguagem de script poderosa para processamento de texto, administração de sistemas e automação.",
+    "link": "https://www.perl.org/",
+    "categoria": "programacao"
+},
+{
+    "nome": "Bash",
+    "ano": "1989",
+    "descricao": "Shell Unix amplamente usado e linguagem de script para automação em sistemas Linux/Unix.",
+    "link": "https://www.gnu.org/software/bash/",
+    "categoria": "programacao"
+},
+{
+    "nome": "Assembly",
+    "ano": "1940s",
+    "descricao": "Conjunto de linguagens de baixo nível específicas por arquitetura, usadas para controle direto do hardware e otimização crítica.",
+    "link": "https://en.wikipedia.org/wiki/Assembly_language",
+    "categoria": "programacao"
+}
+]
