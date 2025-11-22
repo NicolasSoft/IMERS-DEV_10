@@ -1,66 +1,72 @@
-🌐 Imersão Dev – Projeto de Pesquisa Interativa
+# 🌐 Imers-Dev_10 – Projeto de Pesquisa Interativa
 
-Este repositório contém um projeto desenvolvido durante a Imersão Dev, focado em construir uma aplicação Web simples, dinâmica e intuitiva, baseada em pesquisa de conteúdo.
-O tema inicial escolhido foi Linguagens de Programação, mas a estrutura do projeto permite expandir para praticamente qualquer tipo de assunto.
+O **Imers-Dev_10** é um projeto desenvolvido durante a **Imersão Dev**, com foco na criação de uma aplicação Web dinâmica, intuitiva e capaz de pesquisar conteúdos com rapidez e simplicidade.  
+A proposta inicial é permitir buscas sobre **Linguagens de Programação**, mas toda a estrutura foi planejada para ser facilmente adaptável a outros temas.
 
-📖 Sobre o Projeto
+---
 
-O objetivo principal deste projeto é permitir que o usuário pesquise informações rapidamente através de um campo de busca inteligente.
-A aplicação percorre uma lista pré-definida de conteúdos e retorna os itens que correspondem ao texto digitado.
+## 📖 Sobre o Projeto
 
-Essa abordagem cria uma experiência leve e eficiente, ideal para aprender e praticar lógica de programação, manipulação do DOM e organização de dados.
+O projeto funciona como um mecanismo de busca personalizado:  
+O usuário digita um termo e a aplicação verifica, em tempo real, quais itens do banco de dados combinam com aquele texto.  
+Cada resultado é exibido de forma clara, organizada e visualmente agradável.
 
-🚀 O que Aprendi
+Essa abordagem torna o **Imers-Dev_10** ideal para aprender:
 
-Durante a construção deste projeto, desenvolvi e aprimorei conhecimentos em:
+- Lógica de programação  
+- Manipulação do DOM  
+- Estruturação de dados  
+- Criação de interfaces interativas
 
-✔️ Desenvolvimento Web
+---
 
-Estruturação de páginas com HTML5
+## 🚀 O que Aprendi Durante o Desenvolvimento
 
-Estilizações modernas usando CSS3
+### ✔️ Desenvolvimento Web
+- Estruturação com **HTML5**
+- Estilização usando **CSS3**
+- Interatividade com **JavaScript**
 
-Criação de interatividade com JavaScript
+### ✔️ Programação na Prática
+- Como criar e organizar listas de objetos (arrays)
+- Filtragem de dados com base em palavras-chave
+- Uso de funções para modularizar o código
+- Manipulação do DOM para exibir resultados dinamicamente
 
-✔️ Lógica de Programação
+### ✔️ Git & GitHub
+- Criação e organização de repositórios
+- Versionamento de alterações
+- Boa documentação e organização
 
-Manipulação do DOM para exibir dados dinamicamente
+---
 
-Uso de arrays, objetos e funções
+## 🔄 Flexibilidade do Projeto
 
-Filtragem de dados em tempo real com base em palavras-chave
+Apesar de o projeto começar com **linguagens de programação**, ele pode ser facilmente adaptado para outros temas, como:
 
-Organização de conteúdo de forma escalável
+- 🎵 Músicas  
+- 🎮 Jogos  
+- 🎬 Filmes  
+- 📺 Séries  
+- 📚 Livros  
+- 🌍 Curiosidades  
+- 📘 Conteúdo educacional  
 
-✔️ Versionamento
+Basta alterar a base de dados usada para a busca.
 
-Organização do código no GitHub
+---
 
-Prática de versionamento com Git
+## 🛠️ Tecnologias Utilizadas
 
-🔄 Flexibilidade: Expanda como quiser!
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Git / GitHub**
 
-Apesar de o projeto começar com linguagens de programação, sua estrutura foi pensada para ser totalmente flexível.
+---
 
-Você pode transformar esta ferramenta em buscadores de:
+## ▶️ Como Executar
 
-🎵 Músicas
-🎮 Jogos
-🎬 Filmes
-📺 Séries
-📖 Livros
-🌍 Curiosidades gerais
-🔧 Ferramentas e tecnologias
-… e qualquer outro tema que quiser!
-
-Basta alterar a base de dados (array) que alimenta o sistema.
-
-🛠️ Tecnologias Utilizadas
-
-HTML5
-
-CSS3
-
-JavaScript
-
-Git & GitHub
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/Imers-Dev_10.git
