@@ -28,12 +28,12 @@ Essa abordagem torna o **Imers-Dev_10** ideal para aprender:
 - Interatividade com **JavaScript**
 
 ### ✔️ Programação na Prática
-- Como criar e organizar listas de objetos (arrays)
+- Como usar Inteligência Artificial
 - Filtragem de dados com base em palavras-chave
 - Uso de funções para modularizar o código
 - Manipulação do DOM para exibir resultados dinamicamente
 
-### ✔️ Git & GitHub
+### ✔️ GitHub
 - Criação e organização de repositórios
 - Versionamento de alterações
 - Boa documentação e organização
