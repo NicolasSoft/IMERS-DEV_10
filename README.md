@@ -62,6 +62,7 @@ Basta alterar a base de dados usada para a busca.
 - **CSS3**
 - **JavaScript**
 - **Git / GitHub**
+- **Node.Js**
 
 ---
 
